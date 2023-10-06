@@ -145,11 +145,7 @@ body {
 .main .header .header__left-items .header__list a {
   color: #fff;
   margin-right: 57px;
-  transform: scale(1);
   transition-duration: 0.3s;
-}
-.main .header .header__left-items .header__list a:hover {
-  transform: scale(1.1);
 }
 .main .header .header__right-items {
   display: none;
